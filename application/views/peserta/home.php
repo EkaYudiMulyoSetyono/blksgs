@@ -50,7 +50,7 @@
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a href="<?php echo base_url()?>">Home</a></li>
-          <li><a href="#about">About</a></li>
+          <li><a href="#about">Tentang Kami</a></li>
           <li><a href="#popular-courses">Jurusan</a></li>
           <li><a href="#contact">Daftar Sekarang</a></li>
         </ul>
